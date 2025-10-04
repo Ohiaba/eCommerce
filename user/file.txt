@@ -1,0 +1,4 @@
+My solutuons have been deployed successfully 
+I have a project to work on
+I build a pipline that authomated testing and deployment of a containerlized application using github action
+
